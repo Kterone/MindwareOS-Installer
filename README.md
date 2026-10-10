@@ -40,7 +40,7 @@ MindwareOS is under development. Features, architecture, and documentation may e
 ## You need to downloade the official Arch Linux Iso -
 ### Please go to [here](https://archlinux.org/download/) and download the iso first.
 ------------------------------------------------------------------------------------
-1. Flash the iso onto a external media and boot it.
-2. After getting into TTY just paste this single command given below.
+## 1. Flash the iso onto a external media and boot it.
+## 2. After getting into TTY just paste this single command given below.
 
 
