@@ -46,3 +46,4 @@ MindwareOS is under development. Features, architecture, and documentation may e
 ```bash
 curl -fsSL https://raw.githubusercontent.com/Kterone/MindwareOS-Installer/refs/heads/main/mindware-install.sh | bash
 ```
+## 3. Then do the instalation - Reboot and Enjoy!!
