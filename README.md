@@ -1,4 +1,5 @@
 # MindwareOS
+## Currently in beta(NOT FOR DAILY-DRIVER)
 
 **A privacy-focused, performance-driven operating system based on Arch Linux.**
 
