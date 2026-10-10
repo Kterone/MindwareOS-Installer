@@ -42,7 +42,7 @@ MindwareOS is under development. Features, architecture, and documentation may e
 ------------------------------------------------------------------------------------
 ## 1. Flash the iso onto a external media and boot it.
 ## 2. After getting into TTY just paste this single command given below.
-
+,,,
 curl -fsSL https://raw.githubusercontent.com/Kterone/MindwareOS-Installer/refs/heads/main/mindware-install.sh | bash
-
+,,,
 
